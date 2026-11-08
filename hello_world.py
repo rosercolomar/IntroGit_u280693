@@ -8,7 +8,7 @@ def greet(name):
 
 
 def farewell(name):
-    """Return a gosodbye message for the given name."""
+    """Return a goodbye message for the given name."""
     return f"Goodbye, {name}! See you next commit."
 
 
